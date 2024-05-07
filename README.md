@@ -1,3 +1,3 @@
 # VanillaBlog
 
-Just a school project.
+Just a template.
